@@ -1,0 +1,31 @@
+h1,
+h2,
+h3 {
+    font: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: coral;
+}
+
+h1 {
+    padding: 0%;
+    border: darkgoldenrod;
+}
+
+ol>li {
+    display: inline;
+    padding: 1%;
+}
+
+img {
+    max-width: 20%;
+    max-height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/* I struggle finding one property to use to be able to center m image but with the help of "additional reading" 
+        offered by HyperionDev I was able to find a way :)*/
